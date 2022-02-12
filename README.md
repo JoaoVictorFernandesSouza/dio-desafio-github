@@ -1,5 +1,6 @@
-# dio-desafio-github
-<img src="C:\Users\João\Downloads\github-icon.png" style="zoom:33%;" />
+# Desafio Dio GitHub
+### Objetivo
 
-Desafio de projeto para a criação de um repositório no GitHub
+- Criar um repositório no **GitHub** :heavy_check_mark:
 
+**Obs.:** Estou fazendo o Bootcamp Eduzz Fullstack Developer #3
